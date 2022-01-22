@@ -1,6 +1,6 @@
 # Website Clones
 
-A website for displaying all the website clones made by me, all one place. This Website contains all the descriptions and links to actual website clones. Link to the website :
+A website for displaying all the website clones made by me, all one place. This Website contains all the descriptions and links to actual website clones. Link to the website : https://clone-websites.netlify.app/
 
 <ol>
   <li>
