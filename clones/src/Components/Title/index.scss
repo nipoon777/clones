@@ -1,0 +1,17 @@
+.title {
+	width: 70%;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	margin: 30px 5px;
+	.details {
+		h1 {
+			width: 100%;
+			font-size: 80px;
+		}
+		p {
+			text-align: right;
+			font-weight: 600;
+		}
+	}
+}
